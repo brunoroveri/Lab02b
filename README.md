@@ -1,7 +1,8 @@
-#Lab02b
-#Bruno Roveri - 10401752
-#Lucas Farias - 10402521
-#Leonardo Binder - 10402289
+# Lab02b
+
+# Bruno Roveri - 10401752
+# Lucas Farias - 10402521
+# Leonardo Binder - 10402289
 
 ![image](https://github.com/brunoroveri/Lab02b/assets/142548195/9e7badf4-1302-49c3-bd49-9d9bcf0f2722)
 
